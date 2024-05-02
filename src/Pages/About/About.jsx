@@ -3,12 +3,36 @@ import { Helmet } from 'react-helmet';
 
 const testimonials = [
     {
-        name: 'Lakshay Dhoundiyal',
-        role: 'Full Stack Developer',
+        name: 'Shubham Patidar',
+        role: 'Developer',
         content:
-            'A resume builder website is a web-based tool that allows users to create and customize a professional resume to their desired specifications. These websites typically provide templates for creating a resume.',
+            'A Career Craft website is a web-based tool that allows users to create and customize a professional resume to their desired specifications. These websites typically provide templates for creating a resume.',
         avatar:
-            'https://avatars.githubusercontent.com/u/104713661?v=4',
+            '',
+    }
+    {
+        name: 'Yuvraj Singh Panwar',
+        role: 'Developer',
+        content:
+            '',
+        avatar:
+            '',
+    }
+{
+        name: 'Roshni Sheikh',
+        role: 'Developer',
+        content:
+            '',
+        avatar:
+            '',
+    }
+{
+        name: 'Vijay Jat',
+        role: 'Developer',
+        content:
+            ' ',
+        avatar:
+            '',
     }
 ];
 
