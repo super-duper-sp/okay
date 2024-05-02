@@ -23,14 +23,15 @@ export default function Introduction() {
     return (
         <>
             <Helmet>
-                <title>Resume Builder</title>
-                <meta name="description" content="Build your professional resume in minutes using our easy-to-use online resume builder. Choose from a variety of templates and customize your resume to land your dream job. Get started now!" />
-                <meta name="keywords" content="resume builder, online resume builder, professional resume, resume templates, resume designs, resume generator, resume creator, resume maker, build resume, create resume, download resume" />
-                <meta name="robots" content="index,follow" />
-                <meta name="author" content="Hardik Desai" />
-                <meta property="og:image" content="https://avatars.githubusercontent.com/u/87645745?v=4" />
-                <meta property="og:url" content="https://quick-resume.netlify.app/about" />
-                <meta property="og:type" content="website" />
+                <title>Career Craft - Create Professional Resumes Online</title>
+           <meta name="description" content="Build and customize professional resumes online with Career Craft. Choose from a variety of templates and create your perfect resume easily." />
+           <meta name="keywords" content="resume builder, professional resumes, online resumes, resume templates" />
+           <meta name="author" content="Shubham , Yuvraj ,Roshni ,Vijay" />
+           <meta property="og:title" content="Career Craft - Create Professional Resumes Online" />
+           <meta property="og:description" content="Build and customize professional resumes online with Career Craft. Choose from a variety of templates and create your perfect resume easily." />
+           <meta property="og:image" content="" />
+           <meta property="og:url" content="https://shubhampatidar.vercel.app/" />
+           <meta property="og:type" content="website" />
             </Helmet>
 
             <Container my={{ base: 1.5, md: 16 }} justifyContent={'space-between'} flexDirection={{ base: 'column', md: 'row', sm: 'column' }} display={'flex'} alignItems={'center'} maxW={'7xl'}>
@@ -57,7 +58,7 @@ export default function Introduction() {
                                 </Heading>
 
                                 <Text color={'gray.500'} maxW={'3xl'}>
-                                    Resume builder tools that assemble well-formatted resume. Through a resume builder, you can create a professional-looking resume in a few easy steps. This resume builder offer different template options, so you can select the template that best fits your needs and style.
+                                    Career Craft tools that assemble well-formatted resume. Through a resume builder, you can create a professional-looking resume in a few easy steps. This resume builder offer different template options, so you can select the template that best fits your needs and style.
                                 </Text>
 
                                 <Flex _dark={{ color: 'gray.50' }} textAlign={'start'} flexDirection={'column'} w={'full'}>
@@ -70,7 +71,7 @@ export default function Introduction() {
                                     <Box className='Bullet_Points'>
                                         <Button>2</Button>
                                         <Text _dark={{ color: "gray.400" }} color={'gray.900'} fontSize={'xl'}>
-                                            Build you resume using our easy to use resume builder.
+                                            Build you resume using our easy to use Career Craft.
                                         </Text>
                                     </Box>
                                     <Box className='Bullet_Points'>
